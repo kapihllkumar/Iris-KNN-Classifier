@@ -78,4 +78,4 @@ Evaluation was done using:
 1. Clone the repo:
    ```bash
    git clone https://github.com/kapihllkumar/Iris-KNN-Classifier.git
-   cd Iris-KNN-Classifier
+   cd Iris-KNN-Classification
